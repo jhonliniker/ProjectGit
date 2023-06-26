@@ -1,1 +1,1 @@
-Projeto em construção
+import time
